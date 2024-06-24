@@ -1,5 +1,9 @@
 # Employee Churn Prediction Project
 
+<p align="center">
+  <img src="Employee_Churn_Prediction.png" width="90%">
+</p>
+
 ## Introduction 👋
 Employee churn is a critical challenge for organizations across various industries. Accurate prediction of employee churn can provide valuable insights for HR departments and management teams, enabling them to implement proactive measures aimed at retention and talent management. This project leverages various machine learning and deep learning techniques to develop a predictive model for employee churn, assisting organizations in identifying at-risk employees and devising effective retention strategies.
 
