@@ -14,7 +14,6 @@ This notebook aims to:
 1. Perform dataset exploration using various types of data visualization.
 2. Build a machine learning model that can predict employee attrition.
 3. Export prediction results on test data into files.
-4. Create a comprehensive README file for this project.
 
 ## Project Structure
 1. **Introduction**: Overview of the problem and project objectives.
@@ -43,7 +42,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### Running the Project
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Pathakdarshan12/Employee_Attrition_Prediction.git
+    git clone https://github.com/Pathakdarshan12/Employee_Churn_Prediction.git
     cd Employee_Attrition_Prediction
     ```
 
